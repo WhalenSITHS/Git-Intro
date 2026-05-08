@@ -1,1 +1,1 @@
-class Monster
+rtyerty
